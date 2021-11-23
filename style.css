@@ -1,0 +1,17 @@
+body {
+    background-image: url("bg.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+#one {
+    font-size: 50px;
+    background-color: darkblue;
+    color: white;
+    font-family: cursive;
+}
+
+canvas {
+    border: 10px ridge black;
+    background-color: black;
+}
